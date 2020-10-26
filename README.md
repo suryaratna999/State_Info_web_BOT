@@ -26,8 +26,7 @@ end the bot button is available if the user wants to stop the work.
 
 ## BLOCK DIAGRAM
 
-![BLOCK DIAGRAM](BLOCK DIAGRAM.png)
-
+BLOCK DIAGRAM.jpg
 
 
 
