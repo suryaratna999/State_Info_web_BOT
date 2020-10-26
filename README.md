@@ -26,9 +26,8 @@ end the bot button is available if the user wants to stop the work.
 
 ## BLOCK DIAGRAM
 
-BLOCK DIAGRAM.jpg
-
-
+![Alt Text](https://github.com/suryaratna999/State_Info_web_BOT/blob/main/BLOCK%20DIAGRAM.jpg
+)
 
 ## YOUTUBE LINK:
 
