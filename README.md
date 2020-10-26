@@ -24,13 +24,20 @@ if the user chooses the calculation option, it takes a user to the calculator pa
 On every page go_back button is available if the user wants to come back to the options page.
 end the bot button is available if the user wants to stop the work.
 
+## BLOCK DIAGRAM
+
+![Screenshot](screenshot.png)
+
+
+
 
 ## YOUTUBE LINK:
 
-
+https://www.youtube.com/watch?v=5F2iPNOu1Nc
 
 ## repl.it link:
 
+https://StateInfowebBOT--suryaratnakaran.repl.co
 
 ## REFERRED LINKS:
 
